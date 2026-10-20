@@ -2,7 +2,7 @@
 
 > A version-stable mod loader for Minecraft.
 
-**Status:** pre-alpha · **Target:** Minecraft 26.3 · **Java:** 25+ · **License:** MIT
+**Status:** pre-alpha · **Target:** Minecraft 26.3+ · **Java:** 25+ · **License:** MIT
 
 ## Overview
 
@@ -40,7 +40,7 @@ Honey Loader is built around a stable abstraction layer — the **Wax** layer �
 ## Prerequisites
 
 - Java 25+
-- Minecraft 26.3
+- Minecraft 26.3+
 
 ## Installation
 
@@ -51,8 +51,9 @@ Honey Loader is built around a stable abstraction layer — the **Wax** layer �
 
 ```bash
 ./gradlew build
-The output jar is in build/libs/
 ```
+The output jar is in build/libs/
+
 
 ## Roadmap
 
@@ -69,4 +70,4 @@ Contributions are welcome. Please open an issue before starting large changes. S
 Released under the MIT license. See [LICENSE.md](LICENSE.md) for the full text.
 
 ---
-_Generated 2026-10-20 by honey_readme.py — edit freely, then delete this line._
+
