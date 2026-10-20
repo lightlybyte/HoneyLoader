@@ -1,0 +1,5 @@
+rootProject.name = 'honey'
+
+include 'core'
+include 'wax'
+include 'adapters:mc26_3'

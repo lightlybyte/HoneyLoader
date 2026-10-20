@@ -1,0 +1,6 @@
+plugins {
+    id 'java-library'
+}
+
+// No dependencies. This is intentional.
+// Wax is the stable surface; it must not leak Minecraft or ASM types.
